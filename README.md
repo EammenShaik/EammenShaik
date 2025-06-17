@@ -1,4 +1,4 @@
-Hi 👋 My name is Eammen Shaik
+Hi 👋 I'm Eammen Shaik
 =============================
 
 * ✉️  You can contact me at [24mc3044@rgipt.ac.in](mailto:24mc3044@rgipt.ac.in)
