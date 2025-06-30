@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Eammen Shaik</h1>
+<h1 align="center">Hi 👋 My I'm Eammen Shaik</h1>
 <p alingn="center">
 <ul>
 <li>✉️  You can contact me at [24mc3044@rgipt.ac.in](mailto:24mc3044@rgipt.ac.in)</li>
@@ -24,7 +24,6 @@
 
 <p>&nbsp;</p>
 <h3 align="center">My GitHub Stats</h3>
-<a href="http://www.github.com/EammenShaik"><img src="https://github-readme-stats.vercel.app/api?username=EammenShaik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EammenShaik's GitHub stats" /></a>
-<a href="http://www.github.com/EammenShaik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EammenShaik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/EammenShaik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EammenShaik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="center" href="http://www.github.com/EammenShaik"><img src="https://github-readme-stats.vercel.app/api?username=EammenShaik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EammenShaik's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/EammenShaik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EammenShaik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/EammenShaik" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EammenShaik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
