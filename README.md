@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My I'm Eammen Shaik</h1>
 <p alingn="center">
 <ul>
-<li>✉️  You can contact me at [24mc3044@rgipt.ac.in](mailto:24mc3044@rgipt.ac.in)</li>
+<li>✉️  You can contact me at 24mc3044@rgipt.ac.in</li>
 <li>🧠  I'm learning : I enjoy picking up skills across domains and seeing where they intersect.</li>
 <li>🤝  I'm open to collaborating on meaningful tech ideas — from healthcare dashboards to sustainability-focused solutions. I love working on projects that are curious, creative, and make a difference</li>
 <li>⚡  I used to think I needed one perfect path. Now, I explore, build, and collect what matters along the way</li>
